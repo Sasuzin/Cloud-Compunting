@@ -1,0 +1,5 @@
+Qual o conceito de Cloud Computing?
+
+De uma forma simples, cloud computing, ou computação na nuvem, é uma tecnologia que permite acesso remoto a softwares, 
+armazenamento de arquivos e processamento de dados por meio da internet. É uma alternativa para você acessar dados importantes
+de qualquer computador, em qualquer lugar.
