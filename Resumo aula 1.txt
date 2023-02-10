@@ -3,3 +3,26 @@ Qual o conceito de Cloud Computing?
 De uma forma simples, cloud computing, ou computação na nuvem, é uma tecnologia que permite acesso remoto a softwares, 
 armazenamento de arquivos e processamento de dados por meio da internet. É uma alternativa para você acessar dados importantes
 de qualquer computador, em qualquer lugar.
+
+- Nist -
+- O que é?
+- Quais as ofertas
+- Quais os "deploys"
+- Caracteristicas
+
+1 - Self-service
+2 - Acesso a "internet"
+3 - ''Pool" Recursos
+4 - Elasticididade 
+5 - Mansurado => Pago de uso
+
+SAAS = Analogia(Jantar de Pizza)
+PAAS = Analogia(Delivery)
+IAAS = Analogia(Comida Congelada) 
+
+[ONP] => Pizza caseira
+ON-PREMISES
+
+. Public Clound
+Hybrid Clound
+. Private Clound
